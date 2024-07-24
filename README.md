@@ -44,7 +44,64 @@ Collection of various utilities, scripts, and files that have been useful to me 
 
 ## Tools
 
-* homebrew -> ...
-* fnm -> ...
-* bob -> ...
-* 
+<details>
+  <summary>homebrew</summary>
+
+ elpepe
+
+</details>
+
+<details>
+  <summary>fnm</summary>
+
+ elpepe
+
+</details>
+
+<details>
+  <summary>bob</summary>
+
+ elpepe
+
+</details>
+
+<details>
+  <summary>lazyvim</summary>
+
+ elpepe
+
+</details>
+
+
+## Setup apache + php
+
+<details>
+  <summary></summary>
+
+ elpepe
+
+</details>
+
+<details>
+  <summary></summary>
+
+ elpepe
+
+</details>
+
+<details>
+  <summary></summary>
+
+ elpepe
+
+</details>
+
+
+
+## Setup reactjs
+
+## Setup react native
+
+## Setup nodejs
+
+## Setup java openjdk

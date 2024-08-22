@@ -72,36 +72,3 @@ Collection of various utilities, scripts, and files that have been useful to me 
 
 </details>
 
-
-## Setup apache + php
-
-<details>
-  <summary></summary>
-
- elpepe
-
-</details>
-
-<details>
-  <summary></summary>
-
- elpepe
-
-</details>
-
-<details>
-  <summary></summary>
-
- elpepe
-
-</details>
-
-
-
-## Setup reactjs
-
-## Setup react native
-
-## Setup nodejs
-
-## Setup java openjdk
